@@ -1,0 +1,19 @@
+{
+  "name": "@valler/withastro-language-tools-issue-584-repro-repo",
+  "description": "A repro repo for https://github.com/withastro/language-tools/issues/584",
+  "devDependencies": {
+    "astro": "^3.3.3"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "valler <hi@valerij.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/valler/withastro-language-tools-issue-584-repro-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valler/withastro-language-tools-issue-584-repro-repo/issues"
+  },
+  "homepage": "https://github.com/valler/withastro-language-tools-issue-584-repro-repo#readme"
+}
