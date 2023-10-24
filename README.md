@@ -1,6 +1,6 @@
 # withastro language-tools issue 584 repro repo
 
-A repro repo for https://github.com/withastro/language-tools/issues/584
+A repro repo for [withastro/language-tools #584](https://github.com/withastro/language-tools/issues/584).
 
 ## Steps to reproduce
 
