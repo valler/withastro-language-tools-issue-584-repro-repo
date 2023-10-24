@@ -2,7 +2,17 @@
 
 A repro repo for [withastro/language-tools #584](https://github.com/withastro/language-tools/issues/584).
 
-## Steps to reproduce
+## How to fix
+
+Make sure your astro files are included in your `tsconfig.json`:
+
+```json
+{
+  "include": ["src/**/*.ts", "src/**/*.astro"],
+}
+```
+
+## Steps to reproduce the original bug
 
 1. Install the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
 2. Clone this repo.
