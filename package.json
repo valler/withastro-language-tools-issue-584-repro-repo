@@ -2,6 +2,7 @@
   "name": "@valler/withastro-language-tools-issue-584-repro-repo",
   "description": "A repro repo for https://github.com/withastro/language-tools/issues/584",
   "devDependencies": {
+    "@astrojs/check": "^0.2.1",
     "astro": "^3.3.3"
   },
   "version": "1.0.0",
