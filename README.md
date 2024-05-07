@@ -2,6 +2,8 @@
 
 A repro repo for [withastro/language-tools #584](https://github.com/withastro/language-tools/issues/584).
 
+*The issue has been closed. Like in this case, the unexpected behavior is or was due to a missconfiguration, not an actual bug.*
+
 ## How to fix
 
 Make sure your astro files are included in your `tsconfig.json`:
